@@ -1,0 +1,4 @@
+2.Januar.2024 22:00:00.000: [Patient] Starte Abendmedikation-Routine
+2.Januar.2024 22:01:00.000: [Patient] Beginne Doxazosin-Verabreichung
+2.Januar.2024 22:02:00.000: [Patient] Doxazosin eingenommen: true, korrekte Menge: true
+2.Januar.2024 22:03:00.000: [Patient] Beginne Simvastatin-Verabreichung
